@@ -6,7 +6,7 @@ UNT DP Campus Directory is a simple desktop application that retrieves informati
 
 Users can search for staff and faculty using (1) name, (2) teaching courses, and (3) department.  
 
-## Design
+## Product Example
 
 ![Example_search](https://user-images.githubusercontent.com/70772170/123466580-1dc24580-d5b5-11eb-990b-11fa677ca13c.png)
 
