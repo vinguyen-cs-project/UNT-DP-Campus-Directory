@@ -1,6 +1,6 @@
 # UNT DP Campus Directory
 
-UNT DP Campus Directory is a simple desktop application that retrieves information of staff and faculty of UNT Discovery Park Campus from a MySQL database on AWS. 
+UNT DP Campus Directory is a simple desktop application that retrieves information of staff and faculty of UNT Discovery Park Campus from a MySQL database on AWS. Its search results also include faculty pictures and their research papers to aid students in searching for sponsors/supervisors for their master theses and capstone projects.
 
 ## Usage 
 
